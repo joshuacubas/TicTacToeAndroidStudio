@@ -139,7 +139,7 @@
             android:layout_span="3"
             android:fontFamily="@font/autour_one"
             android:text="New Game"
-            android:textSize="20sp" />
+            android:textSize="21sp" />
 
     </TableRow>
 
